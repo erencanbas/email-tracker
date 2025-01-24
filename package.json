@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://ghttps://github.com/erencanbas/email-tracker.git"
+    "url": "https://github.com/erencanbas/email-tracker.git"
   },
   "scripts": {
     "build": "tsc",
